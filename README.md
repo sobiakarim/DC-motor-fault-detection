@@ -63,5 +63,5 @@ Our goal is to develop a **machine learning model** capable of predicting motor 
 ## 🙌 Contributors
 
 - Sobia Karim, Layba Huda, KhushBakht Anwar
-  *Embedded Systems Project - AI DC Motor Fault Detection*
+
 
